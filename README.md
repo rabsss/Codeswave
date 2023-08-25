@@ -7,4 +7,4 @@ Codeswave is the project done for the location of the specific locations in hash
 # Description
 Codeswave is the project which is made to make a digital mapping better. The hashed location address always help people to get the location easily securely. The hashed location contains many description about the address.
 
-Made by JODDS &copy;. All Rights Reserved.
+Made by Jodds &copy;. All Rights Reserved.
